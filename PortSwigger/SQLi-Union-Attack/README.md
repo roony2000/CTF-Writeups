@@ -60,7 +60,7 @@ Once submitted, the page loaded successfully and displayed the normal product li
 
 ## 🖼 Proof of Solve
 
-![Solved Screenshot](Screenshot20%2025-11-3020%124300.png)
+![Solved Screenshot](Screenshot5202025-11-30%20124300.png)
 
 
 
