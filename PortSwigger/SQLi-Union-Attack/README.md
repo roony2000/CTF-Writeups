@@ -56,6 +56,11 @@ https://0aeb005203f4436385753fcf001f0086.web-security-academy.net/filter?categor
 
 
 Once submitted, the page loaded successfully and displayed the normal product list, indicating 3 columns in the query.
+---
+
+## 🖼 Proof of Solve
+
+![Solved Screenshot](./Screenshot%202025-11-30%20124300.png)
 
 
 🧠 Why This Works
