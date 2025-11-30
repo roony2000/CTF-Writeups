@@ -60,10 +60,7 @@ Once submitted, the page loaded successfully and displayed the normal product li
 
 ## 🖼 Proof of Solve
 
-<p align="center">
-  <img src="Screenshot%202025-11-30%20124300.png" alt="Solved Screenshot" width="700">
-</p>
-
+![Solved Screenshot](https://raw.githubusercontent.com/roony2000/CTF-Writeups/main/PortSwigger/SQLi-Union-Attack/Screenshot%202025-11-30%20124300.png)
 
 
 
